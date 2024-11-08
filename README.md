@@ -84,5 +84,5 @@ The project is developed with a series of checkpoints to showcase completed func
   - Checkpoint 2 (Oct 22): Completion of DFS and Dijkstra's Algorithm visualizations.
   - Checkpoint 3 (Nov 12): TSP genetic algorithm visualization and parameter adjustment.
   - Checkpoint 4 (Dec 3): Final user interface, export options, and performance metrics.
-  - 
+    
 Future enhancements may include additional algorithms and expanded visualization features.

@@ -36,7 +36,6 @@ Algorithm Visualizer is a Python desktop application designed to help students a
 - **Libraries**:
   - **Tkinter**: GUI development.
   - **Matplotlib**: Graph visualizations and animations.
-  - **Plotly** (optional): Enhances interactivity for dynamic graph displays.
 - **Development Tools**:
   - **IDE**: Visual Studio Code (v1.93).
   - **Version Control**: Git and GitHub.
